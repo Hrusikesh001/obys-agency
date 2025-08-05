@@ -77,6 +77,6 @@ The website features a loading animation, a hero section with a hero image, a se
 
 **📬 Contact**
 ---------------
-If you like this project or want to collaborate, feel free to connect!
-Hrusikesh Sahu - hs2068672@gmail.com 
-LinkedIn - https://www.linkedin.com/in/hrusikesh-sahu-895420300/
+* If you like this project or want to collaborate, feel free to connect!
+* Hrusikesh Sahu - hs2068672@gmail.com 
+* LinkedIn - https://www.linkedin.com/in/hrusikesh-sahu-895420300/
