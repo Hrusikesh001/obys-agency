@@ -34,17 +34,6 @@ The website features a loading animation, a hero section with a hero image, a se
 | HTML5 | CSS3 | GSAP | Shery.js | Webpack |
 | JavaScript | Node.js |
 
-**📁 Project Structure**
-----------------------
-
-**Obys-Agency/
-**│── index.html       # Main entry point**
-**│── style.css        # Custom styles**
-**│── script.js        # Animations and interactivity**
-**│── images/          # Project assets (hero, services, etc.)**
-**│── fonts/           # Custom typography**
-**│── favicon.png      # Branding element**
-
 
 **⚙️ How to Run**
 ------------------
