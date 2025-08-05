@@ -1,10 +1,7 @@
 <img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/745af648-f8ec-4166-bb01-dc163b1cf23e" />Here is a comprehensive README.md file for your Static Website (HTML/CSS/JS) project:
 
-**🚀 Project Title & Tagline**
+**🚀 Obys Agency Clone **
 ==========================
-
-**Project Title:** Obys Agency
-**Tagline:** Elevating Your Online Presence
 
 **📖 Description**
 ---------------
