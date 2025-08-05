@@ -1,10 +1,7 @@
 <img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/745af648-f8ec-4166-bb01-dc163b1cf23e" />Here is a comprehensive README.md file for your Static Website (HTML/CSS/JS) project:
 
-**🚀 Obys Agency Clone **
+🚀 Obys Agency Clone 
 ==========================
-
-**📖 Description**
----------------
 
 Obys Agency is a static website built using HTML, CSS, and JavaScript to showcase the services and expertise of a digital agency. This project aims to provide a clean, modern, and responsive design that effectively communicates the agency's value proposition to its audience.
 
