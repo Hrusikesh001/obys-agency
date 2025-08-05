@@ -37,13 +37,13 @@ The website features a loading animation, a hero section with a hero image, a se
 **📁 Project Structure**
 ----------------------
 
-Obys-Agency/
-│── index.html       # Main entry point
-│── style.css        # Custom styles
-│── script.js        # Animations and interactivity
-│── images/          # Project assets (hero, services, etc.)
-│── fonts/           # Custom typography
-│── favicon.png      # Branding element
+**Obys-Agency/
+**│── index.html       # Main entry point**
+**│── style.css        # Custom styles**
+**│── script.js        # Animations and interactivity**
+**│── images/          # Project assets (hero, services, etc.)**
+**│── fonts/           # Custom typography**
+**│── favicon.png      # Branding element**
 
 
 **⚙️ How to Run**
