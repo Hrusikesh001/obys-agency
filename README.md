@@ -16,16 +16,16 @@ The website features a loading animation, a hero section with a hero image, a se
 **✨ Features**
 -------------
 
-1. **Loading Animation**: A smooth and engaging loading animation that sets the tone for a modern and professional website.
-2. **Responsive Design**: A fully responsive design that adapts to different screen sizes and devices, ensuring a seamless user experience.
-3. **Hero Section**: A hero section with a hero image that grabs the user's attention and effectively communicates the agency's message.
-4. **Services Section**: A services section with a grid layout that showcases the agency's services in a clear and concise manner.
-5. **Contact Section**: A contact section with a simple form that allows users to get in touch with the agency.
-6. **Custom CSS**: A custom CSS file (style.css) that provides a unique visual identity for the website.
-7. **JavaScript Animation**: A JavaScript animation (loadingAnimation function) that adds interactivity to the website.
-8. **Favicon**: A custom favicon (favicon.png) that adds a touch of personality to the website's branding.
-9. **Shery.js Integration**: Integration with Shery.js, a lightweight JavaScript library that provides a range of UI components and utilities.
-10. **HTML5 Semantic Markup**: HTML5 semantic markup that provides a solid foundation for search engine optimization (SEO) and accessibility.
+1. **Loading Animation**: Smooth preloader for a modern look.
+2. **Responsive Design**: Works perfectly on mobiles, tablets, and desktops.
+3. **Hero Section**:Eye-catching hero image with a clear message.
+4. **Services Section**: Clean grid layout to showcase services.
+5. **Contact Section**: Simple form for users to reach out.
+6. **Custom CSS**: Unique design with a dedicated style.css.
+7. **JavaScript Animation**:  Interactive effects using loadingAnimation().
+8. **Favicon**: Custom icon for better branding.
+9. **Shery.js Integration**: Lightweight library for extra UI effects.
+10. **HTML5 Semantic Markup**: SEO-friendly and accessible structure.
 
 **🧰 Tech Stack Table**
 ----------------------
