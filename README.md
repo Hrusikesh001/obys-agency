@@ -47,17 +47,6 @@ The website features a loading animation, a hero section with a hero image, a se
 
 ### Deploy
 
-1. Deploy the website to a hosting platform (e.g., GitHub Pages, Netlify, or Vercel).
-
-**🧪 Testing Instructions**
--------------------------
-
-1. Open the website in a modern web browser (e.g., Google Chrome, Mozilla Firefox, or Microsoft Edge).
-2. Test the loading animation by clicking the "Loading" button.
-3. Verify that the website is responsive and adapts to different screen sizes and devices.
-4. Test the hero section by clicking the hero image.
-5. Verify that the services section grid layout is correct.
-6. Test the contact section form by filling out the form and submitting it.
 
 **📸 Screenshots**
 ---------------
